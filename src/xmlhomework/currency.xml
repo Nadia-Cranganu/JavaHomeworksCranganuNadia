@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<xmldata>
+
+    <money>
+
+        <RegistrationNo>1</RegistrationNo>
+
+        <Currency>Romanian LEU</Currency>
+
+        <Name>Denomination:</Name>
+
+        <One>1 ban</One>
+
+        <Two>5 bani</Two>
+
+        <Three>10 bani</Three>
+
+        <Four>50 bani</Four>
+
+        <Five>1 leu</Five>
+
+        <Six>5 lei</Six>
+
+        <Seven>10 lei</Seven>
+
+        <Eight>50 lei</Eight>
+
+        <Nine>100 lei</Nine>
+
+        <Ten>200 lei</Ten>
+
+        <Eleven>500 lei</Eleven>
+
+        <Twelve>-</Twelve>
+
+        <Thirteen>-</Thirteen>
+
+        <Fourteen>-</Fourteen>
+
+        <Fifteen>-</Fifteen>
+
+    </money>
+
+    <money>
+
+        <RegistrationNo>2</RegistrationNo>
+
+        <Currency>Euro</Currency>
+
+        <Name>Denomination:</Name>
+
+        <One>1 cent</One>
+
+        <Two>2 cents</Two>
+
+        <Three>5 cents</Three>
+
+        <Four>10 cents</Four>
+
+        <Five>20 cents</Five>
+
+        <Six>50 cents</Six>
+
+        <Seven>1 euro(coin)</Seven>
+
+        <Eight>2 euro(coin)</Eight>
+
+        <Nine>5 euro</Nine>
+
+        <Ten>10 euro</Ten>
+
+        <Eleven>20 euro</Eleven>
+
+        <Twelve>50 euro</Twelve>
+
+        <Thirteen>100 euro</Thirteen>
+
+        <Fourteen>200 euro</Fourteen>
+
+        <Fifteen>500 euro</Fifteen>
+
+    </money>
+
+     <money>
+
+        <RegistrationNo>3</RegistrationNo>
+
+        <Currency>US Dollar</Currency>
+
+        <Name>Denomination:</Name>
+
+        <One>1 cent</One>
+
+        <Two>5 cents</Two>
+
+        <Three>10 cents</Three>
+
+        <Four>25 cents</Four>
+
+        <Five>50 cents</Five>
+
+        <Six>1 dollar(coin)</Six>
+
+        <Seven>1 dollar</Seven>
+
+        <Eight>2 dollars</Eight>
+
+        <Nine>5 dollars</Nine>
+
+        <Ten>10 dollars</Ten>
+
+        <Eleven>20 dollars</Eleven>
+
+        <Twelve>50 dollars</Twelve>
+
+        <Thirteen>100 dollars</Thirteen>
+
+        <Fourteen>-</Fourteen>
+
+        <Fifteen>-</Fifteen>
+
+    </money>
+
+</xmldata>

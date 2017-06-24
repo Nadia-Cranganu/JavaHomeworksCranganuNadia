@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+
+
+<!--
+
+    TODO define vocabulary identification
+
+    PUBLIC ID: -//vendor//vocabulary//EN
+
+    SYSTEM ID: http://server/path/currency.dtd
+
+
+
+-->
+
+
+
+<!--
+
+    An example how to use this DTD from your XML document:
+
+
+
+    <?xml version="1.0"?>
+
+
+
+    <!DOCTYPE xmldata SYSTEM "currency.dtd">
+
+
+
+    <xmldata>
+
+    ...
+
+    </xmldata>
+
+-->
+
+
+
+<!--- Put your DTDDoc comment here. -->
+
+<!ELEMENT xmldata (money)*>
+
+
+
+<!--- Put your DTDDoc comment here. -->
+
+<!ELEMENT money (Four|RegistrationNo|Currency|Name|One|Two|Three|Five|Fifteen|Six|Seven|Nine|Thirteen|Ten|Eleven|Twelve|Eight|Fourteen)*>
+
+
+
+<!--- Put your DTDDoc comment here. -->
+
+<!ELEMENT RegistrationNo (#PCDATA)>
+
+
+
+<!--- Put your DTDDoc comment here. -->
+
+<!ELEMENT Currency (#PCDATA)>
+
+
+
+<!--- Put your DTDDoc comment here. -->
+
+<!ELEMENT Name (#PCDATA)>
+
+
+
+<!--- Put your DTDDoc comment here. -->
+
+<!ELEMENT One (#PCDATA)>
+
+
+
+<!--- Put your DTDDoc comment here. -->
+
+<!ELEMENT Two (#PCDATA)>
+
+
+
+<!--- Put your DTDDoc comment here. -->
+
+<!ELEMENT Three (#PCDATA)>
+
+
+
+<!--- Put your DTDDoc comment here. -->
+
+<!ELEMENT Four (#PCDATA)>
+
+
+
+<!--- Put your DTDDoc comment here. -->
+
+<!ELEMENT Five (#PCDATA)>
+
+
+
+<!--- Put your DTDDoc comment here. -->
+
+<!ELEMENT Six (#PCDATA)>
+
+
+
+<!--- Put your DTDDoc comment here. -->
+
+<!ELEMENT Seven (#PCDATA)>
+
+
+
+<!--- Put your DTDDoc comment here. -->
+
+<!ELEMENT Eight (#PCDATA)>
+
+
+
+<!--- Put your DTDDoc comment here. -->
+
+<!ELEMENT Nine (#PCDATA)>
+
+
+
+<!--- Put your DTDDoc comment here. -->
+
+<!ELEMENT Ten (#PCDATA)>
+
+
+
+<!--- Put your DTDDoc comment here. -->
+
+<!ELEMENT Eleven (#PCDATA)>
+
+
+
+<!--- Put your DTDDoc comment here. -->
+
+<!ELEMENT Twelve (#PCDATA)>
+
+
+
+<!--- Put your DTDDoc comment here. -->
+
+<!ELEMENT Thirteen (#PCDATA)>
+
+
+
+<!--- Put your DTDDoc comment here. -->
+
+<!ELEMENT Fourteen (#PCDATA)>
+
+
+
+<!--- Put your DTDDoc comment here. -->
+
+<!ELEMENT Fifteen (#PCDATA)>
