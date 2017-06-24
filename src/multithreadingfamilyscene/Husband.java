@@ -6,11 +6,6 @@
 
 package multithreadingfamilyscene;
 
-import multithreadingfamilyscene.TvShows;
-import multithreadingfamilyscene.Wife;
-
-
-
 /**
 
  *
